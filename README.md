@@ -17,7 +17,7 @@ Follow these steps to get a local copy up and running.
 
 ### Prerequisites
 
-1. Optionally, if you want to rerun `notebooks/01_Dataset_Generation.ipynb`, obtaining Anthropic API token is necessary. The token is not free and can be generated [here](#https://www.anthropic.com/api).
+1. Optionally, if you want to rerun `notebooks/01_Dataset_Generation.ipynb`, obtaining Anthropic API token is necessary. The token is not free and can be generated [here](https://www.anthropic.com/api).
 2. If you don't want to use Google Colab environment, make sure that you have access to a GPU with at least 16GB of RAM, since without it the code will execute very long.
 3. If you don't want to use Google Colab environment, make sure that you have [Anaconda](https://www.anaconda.com/) installed.
 
