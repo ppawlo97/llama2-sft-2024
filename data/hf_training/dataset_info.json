@@ -1,0 +1,34 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "weather_description": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "weather_conditions": {
+      "humidity": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "temperature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "weather": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "wind_direction": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "wind_speed": {
+        "dtype": "string",
+        "_type": "Value"
+      }
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
